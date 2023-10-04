@@ -1,16 +1,24 @@
-### Hi there 👋
+# 👋 Hello, I'm Prathibha P!
 
-<!--
-**prathi282004/prathi282004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Developer | 📊 Data Science & Blockchain Enthusiast | ☁️ Cloud Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! Here's a quick glimpse of who I am:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🎓 Pursuing in Computer Science from KGISL Institute of Technology
+- 🔭 I’m currently working on Cloud & Blockchain
+- 💡 Passionate about Data Science, Blockchain, and Cloud Computing
+- 💬 Ask me about Data Science
+- 📧 Email: [prathibhapv2@gmail.com](mailto:prathibhapv2@gmail.com)
+- 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/prathi282004/)
+- 😄 Pronouns: She/Her
+- ⚡ Fun Fact: I make data-driven decisions! 📈
+
+## 🌐 Connect With Me
+- **GitHub:** [@prathi282004](https://github.com/prathi282004)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/prathi282004/)
+
+## 🤝 Let's Collaborate
+I'm open to exciting collaborations and projects in tech. If you have ideas or opportunities, feel free to reach out!
+
+Thanks for visiting my profile! 🚀🌟
