@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Prathibha P!
 
-🚀 Software Developer | 📊 Data Science & Blockchain Enthusiast | ☁️ Cloud Engineer
+🚀 Software Developer | 📊 Data Science Enthusiast | ☁️ Cloud Enthusiast
 
 Welcome to my GitHub profile! Here's a quick glimpse of who I am:
 
