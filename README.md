@@ -18,7 +18,7 @@ Welcome to my GitHub profile! Here's a quick glimpse of who I am:
 - **GitHub:** [@prathi282004](https://github.com/prathi282004)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/prathi282004/)
 
-- Check my resume on :<a href='https://drive.google.com/file/d/1iNhLzPGsXKd0QCPc64jOyIweTjOKbiOd/view'>Here</a>
+- Check my resume on :<a href='https://drive.google.com/file/d/1jgoEu3yrY53fUQm9-E4aPTCZH54BgZ4C/view?usp=sharing'>Here</a>
 
 ## 🤝 Let's Collaborate
 I'm open to exciting collaborations and projects in tech. If you have ideas or opportunities, feel free to reach out!
